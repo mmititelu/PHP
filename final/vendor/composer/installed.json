@@ -1,0 +1,30 @@
+[
+    {
+        "name": "mmititelu/mvc",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "C:\\wamp\\www\\vendor\\MVC",
+            "reference": "e59bcbaf08e37778d9063efe70d6e2762f2ec826"
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2013-10-15 13:38:44",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "": "src/"
+            }
+        },
+        "authors": [
+            {
+                "name": "Mihaela Mititelu",
+                "email": "mmititelu@pentalog.fr"
+            }
+        ],
+        "description": "My first Composer project"
+    }
+]

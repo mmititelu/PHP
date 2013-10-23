@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/final/src/libs/Model.php</file>
+            <file>file:/C:/wamp/www/final/src/views/index/index.php</file>
+            <file>file:/C:/wamp/www/final/src/controllers/logout.php</file>
+            <file>file:/C:/wamp/www/final/src/libs/Boostrap.php</file>
+            <file>file:/C:/wamp/www/final/src/libs/View.php</file>
+            <file>file:/C:/wamp/www/final/vendor/mmititelu/mvc/src/Login/Models/User.php</file>
+            <file>file:/C:/wamp/www/final/src/controllers/update.php</file>
+            <file>file:/C:/wamp/www/final/src/models/update_model.php</file>
+            <file>file:/C:/wamp/www/final/src/models/forgot_model.php</file>
+            <file>file:/C:/wamp/www/final/src/libs/Controller.php</file>
+            <file>file:/C:/wamp/www/final/src/controllers/help.php</file>
+            <file>file:/C:/wamp/www/final/vendor/mmititelu/mvc/src/Login/Classes/User.php</file>
+            <file>file:/C:/wamp/www/final/vendor/mmititelu/mvc/src/Login/Classes/Connect.php</file>
+            <file>file:/C:/wamp/www/final/src/controllers/forgot.php</file>
+            <file>file:/C:/wamp/www/final/src/models/register_model.php</file>
+            <file>file:/C:/wamp/www/final/src/views/index/register.php</file>
+            <file>file:/C:/wamp/www/final/src/models/logout_model.php</file>
+            <file>file:/C:/wamp/www/final/src/views/index/forgot.php</file>
+            <file>file:/C:/wamp/www/final/src/controllers/register.php</file>
+            <file>file:/C:/wamp/www/final/src/models/login_model.php</file>
+            <file>file:/C:/wamp/www/final/src/views/header.php</file>
+            <file>file:/C:/wamp/www/final/src/libs/Database.php</file>
+            <file>file:/C:/wamp/www/final/src/index.php</file>
+            <file>file:/C:/wamp/www/final/src/controllers/index.php</file>
+            <file>file:/C:/wamp/www/final/src/views/index/login.php</file>
+            <file>file:/C:/wamp/www/final/src/config/paths.php</file>
+            <file>file:/C:/wamp/www/final/src/controllers/login.php</file>
+            <file>file:/C:/wamp/www/final/src/views/index/update.php</file>
+        </group>
+    </open-files>
+</project-private>
